@@ -50,7 +50,7 @@ description = "Whatever the mind of man can conceive and believe, it can achieve
 hideHUGOSupport = true
 preserveTaxonomyNames = true
 
-
+buildDrafts = true
 
 [permalinks]
 post = "/:slug/"
