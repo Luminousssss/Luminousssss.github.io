@@ -5,6 +5,7 @@ theme = "casper"
 paginate = 5
 pluralizelisttitles = false
 copyright = "All rights reserved"
+buildDrafts = true
 
 
 
@@ -41,16 +42,14 @@ authorbio = "IT software and Security Engineer, Open source enthusiast."
 authorlocation = "Paris, France"
 authorwebsite = "http://Luminousssss.github.io/"
 
-twitterName = "vjeantet"
-githubName = "vjeantet"
+twitterName = "Luminousssss"
+githubName = "Luminousssss"
 logo = "images/logo.png"
 cover = "images/cover_polenord.jpg"
 description = "Whatever the mind of man can conceive and believe, it can achieve."
 
 hideHUGOSupport = true
 preserveTaxonomyNames = true
-
-buildDrafts = true
 
 [permalinks]
 post = "/:slug/"
