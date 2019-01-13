@@ -1,0 +1,43 @@
+language: go
+
+go:
+  - master # This uses automatically the latest version of go
+
+# sudo: false
+
+# git:
+  # depth: 10
+
+branches:
+  only:
+    - source
+
+# env:
+  # global:
+    # - SOURCE_DIR="public"
+    # - BUILD_BRANCH="master"
+    # - DEPLOY_BRANCH="source"
+
+install:
+  - go get github.com/spf13/hugo # This provides the latest version of Hugo to Travis CI
+  # - go get github.com/magefile/mage
+  # - go get -d github.com/gohugoio/hugo
+  # - cd ${GOPATH:-$HOME/go}/src/github.com/gohugoio/hugo
+  # - mage vendor
+  # - mage install
+  # - cd ${TRAVIS_BUILD_DIR}
+
+script:
+  - hugo # This commands builds your website on travis
+
+# Deploy to GitHub pages
+deploy:
+  - provider: pages
+    skip_cleanup: true
+    # edge: true
+    github_token: ${Travis}
+    local_dir: public
+    on:
+        branch: source
+    target_branch: master
+    # repo: Luminousssss/Luminousssss.github.io

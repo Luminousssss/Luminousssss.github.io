@@ -1,0 +1,56 @@
+baseURL = "http://Luminousssss.github.io/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "casper"
+paginate = 5
+pluralizelisttitles = false
+copyright = "All rights reserved"
+
+
+
+[[menu.main]]
+name = "Baidu"
+pre = "<h3>Search</h3>"
+url = "https://www.baidu.com"
+weight = 109
+[[menu.main]]
+name = "Tencent"
+url = "https://www.tencent.com"
+weight = 102
+[[menu.main]]
+name = "QQ"
+url = "https://www.qq.com"
+weight = 101
+
+[[menu.main]]
+name = "Github repos"
+pre = "<h3>Follow me</h3>"
+url = "https://github.com/Luminousssss"
+weight = 100
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/"
+weight = -120
+
+
+
+[params]
+author = "Valère JEANTET"
+authorbio = "IT software and Security Engineer, Open source enthusiast."
+authorlocation = "Paris, France"
+authorwebsite = "http://Luminousssss.github.io/"
+
+twitterName = "vjeantet"
+githubName = "vjeantet"
+logo = "images/logo.png"
+cover = "images/cover_polenord.jpg"
+description = "Whatever the mind of man can conceive and believe, it can achieve."
+
+hideHUGOSupport = true
+preserveTaxonomyNames = true
+
+
+
+[permalinks]
+post = "/:slug/"
