@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My New Hugo Site</title>
+    <link>http://Luminousssss.github.io/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Sun, 13 Jan 2019 20:07:31 +0800</lastBuildDate>
+    
+	<atom:link href="http://Luminousssss.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>event</title>
+      <link>http://Luminousssss.github.io/tags/event/</link>
+      <pubDate>Sun, 13 Jan 2019 20:07:31 +0800</pubDate>
+      
+      <guid>http://Luminousssss.github.io/tags/event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hackathon</title>
+      <link>http://Luminousssss.github.io/tags/hackathon/</link>
+      <pubDate>Sun, 13 Jan 2019 20:07:31 +0800</pubDate>
+      
+      <guid>http://Luminousssss.github.io/tags/hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>socgen</title>
+      <link>http://Luminousssss.github.io/tags/socgen/</link>
+      <pubDate>Sun, 13 Jan 2019 20:07:31 +0800</pubDate>
+      
+      <guid>http://Luminousssss.github.io/tags/socgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tools</title>
+      <link>http://Luminousssss.github.io/tags/tools/</link>
+      <pubDate>Sun, 13 Jan 2019 19:32:26 +0800</pubDate>
+      
+      <guid>http://Luminousssss.github.io/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>devoxx</title>
+      <link>http://Luminousssss.github.io/tags/devoxx/</link>
+      <pubDate>Sun, 13 Jan 2019 19:28:05 +0800</pubDate>
+      
+      <guid>http://Luminousssss.github.io/tags/devoxx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>http://Luminousssss.github.io/tags/docker/</link>
+      <pubDate>Sun, 13 Jan 2019 19:24:46 +0800</pubDate>
+      
+      <guid>http://Luminousssss.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meetup</title>
+      <link>http://Luminousssss.github.io/tags/meetup/</link>
+      <pubDate>Sun, 13 Jan 2019 19:24:46 +0800</pubDate>
+      
+      <guid>http://Luminousssss.github.io/tags/meetup/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

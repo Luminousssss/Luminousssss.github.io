@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devoxx on My New Hugo Site</title>
+    <link>http://Luminousssss.github.io/tags/devoxx/</link>
+    <description>Recent content in devoxx on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Sun, 13 Jan 2019 19:28:05 +0800</lastBuildDate>
+    
+	<atom:link href="http://Luminousssss.github.io/tags/devoxx/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mon Devoxx France 2014</title>
+      <link>http://Luminousssss.github.io/mon-devoxx-france-2014/</link>
+      <pubDate>Sun, 13 Jan 2019 19:28:05 +0800</pubDate>
+      
+      <guid>http://Luminousssss.github.io/mon-devoxx-france-2014/</guid>
+      <description>3 jours de conférences au Devoxx france 2014
+Devoxx FR Jour I Première journée, récupération du badge, tour des exposants, goodies, café croissants, tout commence bien.
+Déjà 9h20, les sessions du matin vont commencer, la salle où l&amp;rsquo;on va parler docker est pleine à craquer #fail pour moi.
+Redirection immédiate vers &amp;ldquo;Angularjs from scratch&amp;rdquo;&amp;hellip; La salle craque&amp;hellip; Je me repli vers l&amp;rsquo;auditorium sur Cassandra ; la salle peut encore accueillir du monde, ça tombe bien, ça m&amp;rsquo;intéresse.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://Luminousssss.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Sun, 13 Jan 2019 20:07:31 +0800</lastBuildDate>
+    
+	<atom:link href="http://Luminousssss.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Résumé de notre projet &#34;Agence connectée&#34; lors du hackathon SOCIETE GENERALE OBJETS CONNECTES</title>
+      <link>http://Luminousssss.github.io/hackathon-societe-generale-agence-connectee/</link>
+      <pubDate>Sun, 13 Jan 2019 20:07:31 +0800</pubDate>
+      
+      <guid>http://Luminousssss.github.io/hackathon-societe-generale-agence-connectee/</guid>
+      <description>Voici une compilation des travaux menés lors du hackathon avec la petite équipe formée pour l&amp;rsquo;occasion !
+On recommence quand vous voulez les garçons !</description>
+    </item>
+    
+    <item>
+      <title>Hackaton Societe Generale Jour 1</title>
+      <link>http://Luminousssss.github.io/hackaton-societe-generale-jour-1/</link>
+      <pubDate>Sun, 13 Jan 2019 20:00:20 +0800</pubDate>
+      
+      <guid>http://Luminousssss.github.io/hackaton-societe-generale-jour-1/</guid>
+      <description>Lors de la soirée pré-hackathon, les organisateurs de bemyapp, Pierre, Dorothée, Gwenn ont donné les contraintes aux porteurs de projets. Une idée, Une minute, 1 slide.
+Thomas, compagnon de meetup, dotscale et soutient psychologique au travail, et moi même avons chacun notre idée à présenter. La prise de parole en publique devant 200 personnes n&amp;rsquo;étant pas notre dada, nous rédigeons, corrigons, répètons et chronomètrons nos pitch pendant l&amp;rsquo;heure de déjeuner du vendredi.</description>
+    </item>
+    
+    <item>
+      <title>Retour d&#39;experience hackathon Societe generale</title>
+      <link>http://Luminousssss.github.io/retour-dexperience-hackathon-societe-generale/</link>
+      <pubDate>Sun, 13 Jan 2019 19:34:42 +0800</pubDate>
+      
+      <guid>http://Luminousssss.github.io/retour-dexperience-hackathon-societe-generale/</guid>
+      <description>Ce week-end, j&amp;rsquo;ai participé au hackathon organisé par bemyapp pour la SOCIÉTÉ GÉNÉRALE. Une première pour moi et la SocGen.
+Expérience unique que je me propose de retourner ici sur plusieurs billets.
+L&amp;rsquo;objectif de ce retour d&amp;rsquo;expérience est de partager ma réflexion et tirer les enseignements positifs et négatifs de cet événement.
+Je vais essayer de faire une synthèse sur
+ la démarche développée les méthodes employées les production réalisées le rôle et l&amp;rsquo;implication des différents acteurs.</description>
+    </item>
+    
+    <item>
+      <title>OsX, you&#39;re talking to me ?</title>
+      <link>http://Luminousssss.github.io/osx-youre-talking-to-me/</link>
+      <pubDate>Sun, 13 Jan 2019 19:32:26 +0800</pubDate>
+      
+      <guid>http://Luminousssss.github.io/osx-youre-talking-to-me/</guid>
+      <description>Just found a fun command on Mac Os X, named as &amp;ldquo;say&amp;rdquo;.
+say converts what you give it as input, as an audible sound.
+$ say &amp;quot;hello&amp;quot; Combine it with pipes
+$ date | say $ fortune | say Let it notify you when a job&amp;rsquo;s completed.
+$ brew update &amp;amp;&amp;amp; say &#39;Brew updated&#39; &amp;amp; say can
+ save the audible to a mp3 file slow its speech rate send it to a network port use the voice/language you want.</description>
+    </item>
+    
+    <item>
+      <title>Mon Devoxx France 2014</title>
+      <link>http://Luminousssss.github.io/mon-devoxx-france-2014/</link>
+      <pubDate>Sun, 13 Jan 2019 19:28:05 +0800</pubDate>
+      
+      <guid>http://Luminousssss.github.io/mon-devoxx-france-2014/</guid>
+      <description>3 jours de conférences au Devoxx france 2014
+Devoxx FR Jour I Première journée, récupération du badge, tour des exposants, goodies, café croissants, tout commence bien.
+Déjà 9h20, les sessions du matin vont commencer, la salle où l&amp;rsquo;on va parler docker est pleine à craquer #fail pour moi.
+Redirection immédiate vers &amp;ldquo;Angularjs from scratch&amp;rdquo;&amp;hellip; La salle craque&amp;hellip; Je me repli vers l&amp;rsquo;auditorium sur Cassandra ; la salle peut encore accueillir du monde, ça tombe bien, ça m&amp;rsquo;intéresse.</description>
+    </item>
+    
+    <item>
+      <title>Docker.io Paris MEETUP5</title>
+      <link>http://Luminousssss.github.io/docker.io-paris-meetup5/</link>
+      <pubDate>Sun, 13 Jan 2019 19:24:46 +0800</pubDate>
+      
+      <guid>http://Luminousssss.github.io/docker.io-paris-meetup5/</guid>
+      <description>Veille de saint Valentin 2014, les curieux, passionnés et amoureux de Docker se sont rencontrés encore une fois pour échanger leurs expériences autour de Docker.io
+ Docker n.m. (Début XXIe).
+I. un projet open source pour packager, livrer et démarrer n&amp;rsquo;importe quelle application dans un conteneur léger.
+ La startup Nuxeo nous a accueilli dans ses locaux juste après le boulot, avec tout le matériel nécessaire, bonne humeur, bière, sodas, chips etc.</description>
+    </item>
+    
+    <item>
+      <title>Serf agent to join cluster on start</title>
+      <link>http://Luminousssss.github.io/serf-agent-to-join-cluster-on-start/</link>
+      <pubDate>Sun, 13 Jan 2019 19:19:32 +0800</pubDate>
+      
+      <guid>http://Luminousssss.github.io/serf-agent-to-join-cluster-on-start/</guid>
+      <description>Serf is a decentralized solution for service discovery and orchestration that is lightweight, highly available, and fault tolerant.
+ Tell a serf agent to join a node on start Using serf config file -config-file you can indicate to your starting serf agent to join a specific node.
+&amp;quot;start_join&amp;quot;:[&amp;quot;node2_host&amp;quot;],
+You even can indicate multiple nodes :
+&amp;quot;start_join&amp;quot;:[&amp;quot;node2_host&amp;quot;,&amp;quot;node3_host&amp;quot;]
+If node2_host and node3_host are not available, your agent will terminate.
+Keep agent alive, even if joinning nodes failed.</description>
+    </item>
+    
+    <item>
+      <title>80 La Minute</title>
+      <link>http://Luminousssss.github.io/80-la-minute/</link>
+      <pubDate>Sun, 13 Jan 2019 19:15:58 +0800</pubDate>
+      
+      <guid>http://Luminousssss.github.io/80-la-minute/</guid>
+      <description>J&amp;rsquo;aimerais avoir le temps d&amp;rsquo;avoir le temps.
+Je suis juste pressé de vieillir pour terminer ma liste des &amp;ldquo;choses à faire&amp;rdquo;; trop pressé de savoir ce que l&amp;rsquo;on me laissera découvrir, apprendre et voir.
+J&amp;rsquo;ai envie de pleurer toutes les larmes de mon corps pour savoir lesquelles étaient vrai.
+Ce sont toutes ces erreurs que je voudrais avoir déjà faites&amp;hellip;
+Pas une seconde ne me fait vieillir, ce sont mes cinq sens qui décident de mon sursis.</description>
+    </item>
+    
+    <item>
+      <title>1 clavier, 1 souris, et plusieurs machines.</title>
+      <link>http://Luminousssss.github.io/1-clavier-1-souris-et-plusieurs-machines/</link>
+      <pubDate>Sun, 13 Jan 2019 19:09:16 +0800</pubDate>
+      
+      <guid>http://Luminousssss.github.io/1-clavier-1-souris-et-plusieurs-machines/</guid>
+      <description>Vous avez 2 écrans branchés sur une même machine, ou plusieurs ordinateurs sous différents OS.
+Je vous présente dans ce billet des méthodes pour profiter au maximum de vos machines avec 1 clavier et 1 souris.
+Autrement dit : passer la souris/clavier de votre PC linux à l&amp;rsquo;ordinateur portable sous MS Windows ou MACosX, et ceci de manière naturelle sans manipulation spéciale.
+Tout informaticien ou geek qui se respecte posséde au moins 2 ordinateurs chez lui, ou au moins 2 écrans branchés sur sa machine.</description>
+    </item>
+    
+    <item>
+      <title>Ghost to Hugo Blog</title>
+      <link>http://Luminousssss.github.io/ghost-to-hugo-blog/</link>
+      <pubDate>Sun, 13 Jan 2019 18:47:24 +0800</pubDate>
+      
+      <guid>http://Luminousssss.github.io/ghost-to-hugo-blog/</guid>
+      <description>I started to blog 11 years ago. The first blog system i used, was Dotclear, I moved to Wordpress few years after because of the large plugin and theme ressources available. Wordpress is a really good blog platform, but it updates itslef too often for me.
+Few months ago, the blog moved to Ghost, a really minimalist blog system, based on nodejs. A KISS aproach to the blog, I falled in love.</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://Luminousssss.github.io/first/</link>
+      <pubDate>Sun, 13 Jan 2019 17:46:32 +0800</pubDate>
+      
+      <guid>http://Luminousssss.github.io/first/</guid>
+      <description>Hello Hugo  aaa bbb ccc  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://Luminousssss.github.io/about/</link>
+      <pubDate>Sun, 13 Jan 2019 17:45:03 +0800</pubDate>
+      
+      <guid>http://Luminousssss.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asset Security</title>
+      <link>http://Luminousssss.github.io/security/asset-security/</link>
+      <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
+      
+      <guid>http://Luminousssss.github.io/security/asset-security/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

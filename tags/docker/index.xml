@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>docker on My New Hugo Site</title>
+    <link>http://Luminousssss.github.io/tags/docker/</link>
+    <description>Recent content in docker on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Sun, 13 Jan 2019 19:24:46 +0800</lastBuildDate>
+    
+	<atom:link href="http://Luminousssss.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Docker.io Paris MEETUP5</title>
+      <link>http://Luminousssss.github.io/docker.io-paris-meetup5/</link>
+      <pubDate>Sun, 13 Jan 2019 19:24:46 +0800</pubDate>
+      
+      <guid>http://Luminousssss.github.io/docker.io-paris-meetup5/</guid>
+      <description>Veille de saint Valentin 2014, les curieux, passionnés et amoureux de Docker se sont rencontrés encore une fois pour échanger leurs expériences autour de Docker.io
+ Docker n.m. (Début XXIe).
+I. un projet open source pour packager, livrer et démarrer n&amp;rsquo;importe quelle application dans un conteneur léger.
+ La startup Nuxeo nous a accueilli dans ses locaux juste après le boulot, avec tout le matériel nécessaire, bonne humeur, bière, sodas, chips etc.</description>
+    </item>
+    
+  </channel>
+</rss>
